@@ -47,9 +47,10 @@ class Data:
     ]
 
     ABOUT = """
-○ <b>Channel</b> : @Anime_Alliance
-○ <b>Request</b> : @newanimerequestbot
-○ <b>Chatting Group</b> : @Alliance_Weebs
+    ° Hey
 
-♥︎ Developed by @Anime_Alliance
+ᴄʀᴇᴀᴛᴏʀ - @AryanTeamUniverse
+ᴀɴᴅ ɪ ʙᴇʟᴏɴɢs ᴛᴏ - @TeamUniversee
+
+Thank You For Using Me 🫶
 """
