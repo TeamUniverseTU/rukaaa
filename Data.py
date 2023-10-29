@@ -47,9 +47,9 @@ class Data:
     ]
 
     ABOUT = """
-   ° Hey
+   ° Hey ᴅᴇᴀʀ
 
-ᴄʀᴇᴀᴛᴏʀ - @AryanTeamUniverse
+ᴍʏ ᴅᴀᴅᴅʏ - @AryanTeamUniverse
 ᴀɴᴅ ɪ ʙᴇʟᴏɴɢs ᴛᴏ - @TeamUniversee
 
 Thank You For Using Me 🫶
